@@ -73,7 +73,7 @@ All diffusion profiles are well reproduced, supporting the hypothesis that diffu
 
 ### MATLAB Codes
 
-3. **`code_Fit2.zip`**  
+3. **`code_Fit2`**  
    MATLAB program (`BFGS_main_parallel.m`) for determining:
    - a single eigenvector matrix
    - seven sets of eigenvalues  
