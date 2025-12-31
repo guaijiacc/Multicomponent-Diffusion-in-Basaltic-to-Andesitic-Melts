@@ -22,10 +22,9 @@ Multicomponent diffusion in natural silicate melts controls many igneous process
 - **Eigenvectors** define **N−1 eigen-components** that diffuse independently
 - **Eigenvalues** represent the diffusion coefficients of these eigen-components
 
-Previous studies demonstrated that diffusion eigenvectors in **8-component basaltic melts**  
-(SiO₂–TiO₂–Al₂O₃–FeO–MgO–CaO–Na₂O–K₂O) are approximately **temperature independent** (Guo & Zhang, 2018, 2020; Bai & Zhang, 2025).
+Previous studies demonstrated that diffusion eigenvectors in **8-component basaltic melts** (SiO₂–TiO₂–Al₂O₃–FeO–MgO–CaO–Na₂O–K₂O) are approximately **temperature independent** (Guo & Zhang, 2018, 2020; Bai & Zhang, 2025).
 
-In this study, we extend the investigation to **andesitic compositions** to test whether diffusion eigenvectors remain invariant with **temperature**. We also explore the **composition** independence of diffusion eigenvectors in basaltic to andesitic melts.
+In this study, we extend the investigation to **andesitic compositions** to test whether diffusion eigenvectors remain invariant with **temperature**. We further explore the **composition** independence of diffusion eigenvectors in basaltic to andesitic melts.
 
 ---
 
